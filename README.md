@@ -8,9 +8,6 @@ An end-to-end Machine Learning pipeline built with Python and `scikit-learn` to 
 1. [Dataset](#dataset)
 2. [Project Workflow](#project-workflow)
 3. [Installation & Requirements](#installation--requirements)
-4. [Usage](#usage)
-5. [Model Evaluation & Results](#model-evaluation--results)
-6. [License](#license)
 
 ---
 
